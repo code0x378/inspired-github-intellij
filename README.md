@@ -10,3 +10,5 @@ This is a very basic, incomplete IntelliJ color scheme inspired by other inspira
 **0.0.1**
 
 - Initial commit  - some colors way off
+- Removed bold and italic fonts
+- Changed doc blocks to use light gray
